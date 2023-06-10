@@ -1,35 +1,15 @@
-ds_course = [['Machine Learning Crash Course by Google [Free]', 'https://developers.google.com/machine-learning/crash-course'],
-             ['Machine Learning A-Z by Udemy','https://www.udemy.com/course/machinelearning/'],
-             ['Machine Learning by Andrew NG','https://www.coursera.org/learn/machine-learning'],
-             ['Data Scientist Master Program of Simplilearn (IBM)','https://www.simplilearn.com/big-data-and-analytics/senior-data-scientist-masters-program-training'],
-             ['Data Science Foundations: Fundamentals by LinkedIn','https://www.linkedin.com/learning/data-science-foundations-fundamentals-5'],
-             ['Data Scientist with Python','https://www.datacamp.com/tracks/data-scientist-with-python'],
-             ['Programming for Data Science with Python','https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104'],
-             ['Programming for Data Science with R','https://www.udacity.com/course/programming-for-data-science-nanodegree-with-R--nd118'],
-             ['Introduction to Data Science','https://www.udacity.com/course/introduction-to-data-science--cd0017'],
-             ['Intro to Machine Learning with TensorFlow','https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230']]
+ds_course = [['Machine Learning Crash Course [Free]', 'https://youtu.be/N5fSpaaxoZc'],
+             ['TensorFlow Crash Course [Free]','https://youtu.be/tPYj3fFJGjk'],
+             ['Data Science Crash Course [Free]','https://youtu.be/xiEC5oFsq2s']]
 
 web_course = [['Django Crash course [Free]','https://youtu.be/e1IyzVyrLSU'],
-              ['Python and Django Full Stack Web Developer Bootcamp','https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp'],
-              ['React Crash Course [Free]','https://youtu.be/Dorf8i6lCuk'],
-              ['ReactJS Project Development Training','https://www.dotnettricks.com/training/masters-program/reactjs-certification-training'],
-              ['Full Stack Web Developer - MEAN Stack','https://www.simplilearn.com/full-stack-web-developer-mean-stack-certification-training'],
-              ['Node.js and Express.js [Free]','https://youtu.be/Oe421EPjeBE'],
-              ['Flask: Develop Web Applications in Python','https://www.educative.io/courses/flask-develop-web-applications-in-python'],
-              ['Full Stack Web Developer by Udacity','https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044'],
-              ['Front End Web Developer by Udacity','https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011'],
-              ['Become a React Developer by Udacity','https://www.udacity.com/course/react-nanodegree--nd019']]
+              ['React Crash Course [Free]','https://youtu.be/bMknfKXIFA8'],
+              ['Node.js and Express.js [Free]','https://youtu.be/Oe421EPjeBE']
+              ]
 
-android_course = [['Android Development for Beginners [Free]','https://youtu.be/fis26HvvDII'],
-                  ['Android App Development Specialization','https://www.coursera.org/specializations/android-app-development'],
-                  ['Associate Android Developer Certification','https://grow.google/androiddev/#?modal_active=none'],
-                  ['Become an Android Kotlin Developer by Udacity','https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940'],
-                  ['Android Basics by Google','https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803'],
-                  ['The Complete Android Developer Course','https://www.udemy.com/course/complete-android-n-developer-course/'],
-                  ['Building an Android App with Architecture Components','https://www.linkedin.com/learning/building-an-android-app-with-architecture-components'],
-                  ['Android App Development Masterclass using Kotlin','https://www.udemy.com/course/android-oreo-kotlin-app-masterclass/'],
-                  ['Flutter & Dart - The Complete Flutter App Development Course','https://www.udemy.com/course/flutter-dart-the-complete-flutter-app-development-course/'],
-                  ['Flutter App Development Course [Free]','https://youtu.be/rZLR5olMR64']]
+android_course = [['Android App Development Crash Course [Free]','https://youtu.be/u64gyCdqawU'],
+                  ['Flutter Crash Course [Free]','https://youtu.be/VPvVD8t02U8'],
+                  ['Kotlin Crash Course [Free]','https://youtu.be/EExSSotojVI']]
 
 ios_course = [['IOS App Development by LinkedIn','https://www.linkedin.com/learning/subscription/topics/ios'],
               ['iOS & Swift - The Complete iOS App Development Bootcamp','https://www.udemy.com/course/ios-13-app-development-bootcamp/'],
@@ -42,16 +22,10 @@ ios_course = [['IOS App Development by LinkedIn','https://www.linkedin.com/learn
               ['Swift Tutorial - Full Course for Beginners [Free]','https://youtu.be/comQ1-x2a1Q'],
               ['Learn Swift Fast - [Free]','https://youtu.be/FcsY1YPBwzQ']]
 
-uiux_course = [['Google UX Design Professional Certificate','https://www.coursera.org/professional-certificates/google-ux-design'],
-               ['UI / UX Design Specialization','https://www.coursera.org/specializations/ui-ux-design'],
-               ['The Complete App Design Course - UX, UI and Design Thinking','https://www.udemy.com/course/the-complete-app-design-course-ux-and-ui-design/'],
-               ['UX & Web Design Master Course: Strategy, Design, Development','https://www.udemy.com/course/ux-web-design-master-course-strategy-design-development/'],
-               ['The Complete App Design Course - UX, UI and Design Thinking','https://www.udemy.com/course/the-complete-app-design-course-ux-and-ui-design/'],
-               ['DESIGN RULES: Principles + Practices for Great UI Design','https://www.udemy.com/course/design-rules/'],
-               ['Become a UX Designer by Udacity','https://www.udacity.com/course/ux-designer-nanodegree--nd578'],
-               ['Adobe XD Tutorial: User Experience Design Course [Free]','https://youtu.be/68w2VwalD5w'],
-               ['Adobe XD for Beginners [Free]','https://youtu.be/WEljsc2jorI'],
-               ['Adobe XD in Simple Way','https://learnux.io/course/adobe-xd']]
+uiux_course = [['UI/UX Crash course [Free]','https://youtu.be/QeTbLkH64kQ'],
+              ['Figma Crash Course [Free]','https://youtu.be/jwCmIBJ8Jtc'],
+              ['Adobe XD [Free]','https://youtu.be/f2K1jmjj5pM']
+              ]
 
 resume_videos = [ 'https://youtu.be/Tt08KmFfIYQ','https://youtu.be/y8YH0Qbu5h4',
                   'https://youtu.be/u75hUSShvnc','https://youtu.be/BYUy1yvjHxE',
@@ -67,3 +41,44 @@ interview_videos = ['https://youtu.be/HG68Ymazo18','https://youtu.be/BOvAAoxM4vg
                     'https://youtu.be/4tYoVx0QoN0','https://youtu.be/Ge0Udbws1kc',
                     'https://youtu.be/thkuu_FWFD8','https://youtu.be/e0E6-dRPcJA',
                     'https://youtu.be/htT1bhFSNxo','https://youtu.be/TZ3C_syg9Ow']
+
+
+jobs_webDev_freshers = [["Web Developer [Freshers]", "https://www.naukri.com/job-listings-fresher-web-developer-busigence-technologies-remote-0-to-2-years-141221500530?src=seo_srp&sid=1679560343405659&xp=2&px=1"],
+        ["Front End Developer [Freshers]", "https://in.indeed.com/jobs?q=Web+Developer+Fresher&from=mobRdr&utm_source=%2Fm%2F&utm_medium=redir&utm_campaign=dt&vjk=a723747a20281373"],
+        ["Back End Developer [Freshers]", "https://www.naukri.com/job-listings-backend-developer-frontend-developer-hyderabad-secunderabad-0-to-1-years-210323003732?src=jobsearchDesk&sid=16795604840693361&xp=1&px=1&nignbevent_src=jobsearchDeskGNB"],
+        ["Full Stack Developer [Freshers]", "https://www.naukri.com/job-listings-full-stack-developer-fresher-qtech-mumbai-0-to-1-years-031022502247?src=jobsearchDesk&sid=16795605317046650&xp=3&px=1&nignbevent_src=jobsearchDeskGNB"]]
+
+
+
+jobs_webDev_experienced = [["Web Developer [Experienced]", "https://www.naukri.com/job-listings-web-developer-ollosoft-technologies-pvt-ltd-jaipur-0-to-3-years-080323005165?src=jobsearchDesk&sid=16795757751526194&xp=3&px=1&nignbevent_src=jobsearchDeskGNB"],
+        ["Front End Developer [Experienced]", "https://www.naukri.com/job-listings-senior-front-end-developer-bny-mellon-international-operations-india-pune-0-to-3-years-180323501050?src=jobsearchDesk&sid=16795758335323412&xp=2&px=1&nignbevent_src=jobsearchDeskGNB"],
+        ["Back End Developer [Experienced]", "https://www.naukri.com/job-listings-backend-developer-frontend-developer-hyderabad-secunderabad-0-to-1-years-210323003732?src=jobsearchDesk&sid=16795604840693361&xp=1&px=1&nignbevent_src=jobsearchDeskGNB"],
+        ["Full Stack Developer [Experienced]", "https://in.indeed.com/jobs?q=Web+Developer&l=&vjk=419b22490b7ca2a8&advn=5616874739358289"]]
+
+
+
+
+jobs_ds_freshers = [["Specialist: Data Analytics [Freshers/Experienced]", "https://www.naukri.com/job-listings-specialist-data-analytics-statistical-analysis-non-data-science-gartner-india-research-advisory-services-pvt-ltd-gurgaon-gurugram-0-to-3-years-310123500074?src=jobsearchDesk&sid=16795761123118598&xp=3&px=1&nignbevent_src=jobsearchDeskGNB"],
+        ["Analyst Data Science [Freshers/Experienced]", "https://www.naukri.com/job-listings-analyst-data-science-american-express-company-gurgaon-gurugram-0-to-3-years-210123500765?src=jobsearchDesk&sid=16795761123118598&xp=6&px=1&nignbevent_src=jobsearchDeskGNB"],
+        ["Data Science Trainee [Freshers/Experienced]", "https://www.naukri.com/job-listings-data-science-trainee-medtoureasy-remote-0-to-1-years-211122500264?src=jobsearchDesk&sid=16795761123118598&xp=15&px=1&nignbevent_src=jobsearchDeskGNB"],
+        ["Data Science Engineer [Freshers/Experienced]", "https://www.naukri.com/job-listings-fresher-data-science-engineer-busigence-technologies-remote-0-to-2-years-141221500529?src=jobsearchDesk&sid=16795763362091996&xp=12&px=1&nignbevent_src=jobsearchDeskGNB"]]
+
+
+
+jobs_android_freshers = [["Software Developer: Android  [Freshers/Experienced]", "https://www.naukri.com/job-listings-software-developer-android-concepts-india-bangalore-bengaluru-0-to-2-years-210323906505?src=jobsearchDesk&sid=16795765234444318&xp=2&px=1&nignbevent_src=jobsearchDeskGNB"],
+        ["Android Developer [Freshers/Experienced]", "https://www.naukri.com/job-listings-android-developer-laxmi-india-finleasecap-jaipur-0-to-5-years-210323909450?src=jobsearchDesk&sid=16795765234444318&xp=5&px=1&nignbevent_src=jobsearchDeskGNB"],
+        ["Flutter Developer [Freshers/Experienced]", "https://in.indeed.com/jobs?q=flutter+fresher&l=&vjk=1fcdf4c86eda6b03"],
+        ["Android/Flutter Developer Intern [Freshers/Experienced]", "https://www.naukri.com/job-listings-android-flutter-developer-intern-ignire-recruitment-nagpur-0-to-1-years-210323006724?src=jobsearchDesk&sid=16795765234444318&xp=15&px=1&nignbevent_src=jobsearchDeskGNB"]]
+
+
+
+
+dom_skills = [    ['Web Development', ['HTML', 'CSS', 'JavaScript', 'React', 'Node.js', 'Angular']],
+    ['Full Stack Development', ['HTML', 'CSS', 'JavaScript', 'React', 'Node.js', 'Express.js', 'MongoDB']],
+    ['Backend Development', ['Java', 'Python', 'PHP', 'Node.js', 'Ruby', 'MySQL', 'PostgreSQL']],
+    ['Frontend Development', ['HTML', 'CSS', 'JavaScript', 'React', 'Angular', 'Vue.js']],
+    ['Android Development', ['Java', 'Kotlin', 'Android Studio', 'Firebase', 'SQLite', 'Retrofit']],
+    ['Machine Learning', ['Python', 'NumPy', 'Pandas', 'Scikit-learn', 'TensorFlow', 'Keras']],
+    ['Data Science', ['Python', 'NumPy', 'Pandas', 'Matplotlib', 'Seaborn', 'SciPy', 'Scikit-learn']],
+    ['Computer Vision', ['Python', 'OpenCV', 'Image Processing', 'Machine Learning', 'Deep Learning']]
+]
